@@ -7,10 +7,6 @@
 //
 
 import UIKit
-import Foundation
-
-
-
 class SearchingViewController: UIViewController {
     
     enum constants {
